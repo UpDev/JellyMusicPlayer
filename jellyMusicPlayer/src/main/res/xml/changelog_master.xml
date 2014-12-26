@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelog>
+    <release version="3.0.7" versioncode="485" >
+        <change>Add Changelog</change>
+        <change>Remove several unused configs</change>
+        <chage>Add Spotify support</chage>
+        <change>Add PulltoRefresh</change>
+    </release>
+    <release version="3.0.5" versioncode="485" >
+        <change>Add Parse Analytics</change>
+    </release>
+    <release version="3.0" versioncode="400" >
+        <change>Fixed: A bug fix</change>
+        <change>Widget For LookScreen</change>
+    </release>
+    <release version="1.0" versioncode="100">
+        <change>First release</change>
+    </release>
+</changelog>
